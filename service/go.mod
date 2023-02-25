@@ -31,7 +31,7 @@ require (
 	github.com/v2rayA/v2ray-lib v0.0.0-20211227083129-d4f59fbf62b8
 	github.com/vearutop/statigz v1.1.7
 	golang.org/x/net v0.0.0-20210903162142-ad29c8ab022f
-	golang.org/x/sys v0.0.0-20211025201205-69cdffdb9359
+	golang.org/x/sys v0.1.0
 	google.golang.org/grpc v1.40.0
 )
 
