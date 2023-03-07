@@ -24,7 +24,7 @@ require (
 	github.com/stevenroose/gonfig v0.1.5
 	github.com/tidwall/gjson v1.10.2
 	github.com/tidwall/sjson v1.2.3
-	github.com/v2fly/v2ray-core/v4 v4.42.2-0.20210928173456-a9979057dcaa
+	github.com/v2fly/v2ray-core/v4 v4.44.0
 	github.com/v2rayA/RoutingA v1.0.2
 	github.com/v2rayA/beego/v2 v2.0.4
 	github.com/v2rayA/shadowsocksR v1.0.4
@@ -32,7 +32,7 @@ require (
 	github.com/vearutop/statigz v1.1.7
 	golang.org/x/net v0.0.0-20210903162142-ad29c8ab022f
 	golang.org/x/sys v0.0.0-20211025201205-69cdffdb9359
-	google.golang.org/grpc v1.40.0
+	google.golang.org/grpc v1.41.0
 )
 
 require (
